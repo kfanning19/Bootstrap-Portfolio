@@ -98,11 +98,11 @@ form {
 
 .thumbnail .caption {
 	position: absolute;
-	bottom: 30px;
+	bottom: 24px;
 	background-color: #4aaaa5;
 	color: #fff;
 	width: 82.5%;
-	padding: 8px;
+	padding: 0px;
 	text-align: center;
 	z-index: 100;
 }
